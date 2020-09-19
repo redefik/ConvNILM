@@ -48,7 +48,7 @@ dishwasher_train.csv) available at:
 https://drive.google.com/drive/folders/1bOuv7G0R6_hoFkEPb5SsxZp-7Tky0pZI?usp=sharing 
 
 The test set, relative to the period
-from 2019-03-15 00:00:00 to 2019-03-31 23:59:59 was not made available by the instructors.
+from 2019-03-15 00:00:00 to 2019-03-31 23:59:59, was not made available by the instructors.
 
 ## Test Instructions
 
